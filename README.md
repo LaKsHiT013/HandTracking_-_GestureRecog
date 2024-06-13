@@ -11,4 +11,5 @@ This repository contains code for hand tracking and gesture recognition using Op
 -> VolumeControl.ipynb: Jupyter notebook for volume control using hand gestures.
 -> Hand_Tracking.ipynb: Jupyter notebook for experimenting with hand tracking.
 
+# -----------------------------------------------------------------------------------------------------------------
 Feel free to modify this README file to suit your project's needs. If you have any questions or need further assistance, please open an issue in the repository. Happy coding!
